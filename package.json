@@ -1,0 +1,31 @@
+{
+  "name": "tripnest-singapore",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node ./node_modules/next/dist/bin/next dev",
+    "build": "node ./node_modules/next/dist/bin/next build",
+    "start": "node ./node_modules/next/dist/bin/next start",
+    "lint": "node ./node_modules/next/dist/bin/next lint"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.4.7",
+    "gsap": "^3.12.7",
+    "lenis": "^1.1.20",
+    "lucide-react": "^0.475.0",
+    "next": "^15.2.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^3.0.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.8",
+    "@types/node": "^22.13.4",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "postcss": "^8.5.2",
+    "tailwindcss": "^4.0.8",
+    "typescript": "^5.7.3"
+  }
+}

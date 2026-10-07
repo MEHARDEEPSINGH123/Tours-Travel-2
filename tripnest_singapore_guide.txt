@@ -1,0 +1,69 @@
+
+TRIPNEST SINGAPORE
+Travel & Tours Marketplace Guide
+
+BRAND POSITIONING
+TripNest Singapore is a modern travel marketplace inspired by the usability of major booking platforms while maintaining a unique visual identity.
+
+CORE REQUIREMENTS
+- Packages
+- Availability
+- Pricing
+- Itineraries
+- Facilities
+- Booking Policies
+- Cancellation Policies
+- Visa Services
+- Local Recommendations
+
+ADDITIONAL FEATURES
+- Hotels
+- Activities
+- Airport Transfers
+- Travel Guides
+- Reviews
+- Promotions
+- Insurance Plans
+
+TARGET AUDIENCE
+- Families
+- Couples
+- Solo Travelers
+- Business Travelers
+- Students
+- Group Tours
+
+UI/UX DIRECTION
+- Modern travel marketplace
+- Search-first experience
+- Large destination imagery
+- Editorial destination sections
+- Interactive itinerary builder
+- Smooth animations
+
+SECTIONS
+1. Hero Search
+2. Trending Destinations
+3. Tour Packages
+4. Hotels
+5. Activities
+6. Visa Services
+7. Travel Guides
+8. Local Recommendations
+9. Reviews
+10. FAQ
+11. Booking Policies
+12. Cancellation Policies
+
+TECH STACK
+- Next.js 15
+- React 19
+- TypeScript
+- Tailwind CSS v4
+- Framer Motion
+
+DATA SOURCES
+Use JSON dynamically for all content.
+
+GOAL
+Create a premium Singapore travel marketplace that feels modern, trustworthy, and conversion-focused.
